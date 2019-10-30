@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/5d48e51bc97ba8657eabe5d8ea43411b/multidex-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b56ef50f420bd512817058babf51158c/yelp-fusion-client-0.1.4/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c589bb7ec2d841c67ae68a3682166223/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0be8ac9c669ca43ba2dbd9e15aa86d41/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cae14de4f8bb502babc738ac6d2e3aa/picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/6d8ef7939597ac6b954357b46076f758/android-gif-drawable-1.2.12/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.eftimoff:android-viewpager-transformers:1.0.1] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/dad965c742df16b24769f08d02a4bf0a/android-viewpager-transformers-1.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/135e175a0ef22ce0a476b55a11aa6553/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1a321b7ca993b48f74ebfe2a4c780bca/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/6a6abecbcce1c57cb3c36d699ae097f2/exifinterface-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c8bf09e18c6976a8609e096016cbfbf9/play-services-base-11.8.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/17b5c343234a510f7b8a20a8f8b89c96/play-services-tasks-11.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aa35eaafec176d3d759c93993af92ca5/play-services-basement-11.8.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/9f83784eeafe2d776a50e825ed305ad1/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/76255774f047056d070aaccfb1365509/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/835b00f0eaa3a4dded0721b4e7a325bd/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e60f63cc7ce4683a1fb220948dd8c54d/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/54addbd48bc777bd7c2feb0c98546e12/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/40a3342781d7a4b08caa38af177e1b14/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/bfd05269a7b55c01b78e37a4ffa3c8d9/play-services-maps-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8afc576fb67ee74358e0034f0a7f1605/play-services-base-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/a5f1c44e24327f868825f104848303fe/play-services-basement-license-11.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0598e553a74433ba13eae51bdffbe30d/play-services-tasks-license-11.8.0/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:9:22-66
+application
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:11:5-42:19
+MERGED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b56ef50f420bd512817058babf51158c/yelp-fusion-client-0.1.4/AndroidManifest.xml:11:5-15:19
+MERGED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b56ef50f420bd512817058babf51158c/yelp-fusion-client-0.1.4/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c589bb7ec2d841c67ae68a3682166223/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c589bb7ec2d841c67ae68a3682166223/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0be8ac9c669ca43ba2dbd9e15aa86d41/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0be8ac9c669ca43ba2dbd9e15aa86d41/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cae14de4f8bb502babc738ac6d2e3aa/picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cae14de4f8bb502babc738ac6d2e3aa/picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:30:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/135e175a0ef22ce0a476b55a11aa6553/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/135e175a0ef22ce0a476b55a11aa6553/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1a321b7ca993b48f74ebfe2a4c780bca/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1a321b7ca993b48f74ebfe2a4c780bca/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c8bf09e18c6976a8609e096016cbfbf9/play-services-base-11.8.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c8bf09e18c6976a8609e096016cbfbf9/play-services-base-11.8.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/17b5c343234a510f7b8a20a8f8b89c96/play-services-tasks-11.8.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/17b5c343234a510f7b8a20a8f8b89c96/play-services-tasks-11.8.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aa35eaafec176d3d759c93993af92ca5/play-services-basement-11.8.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aa35eaafec176d3d759c93993af92ca5/play-services-basement-11.8.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/9f83784eeafe2d776a50e825ed305ad1/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/9f83784eeafe2d776a50e825ed305ad1/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/76255774f047056d070aaccfb1365509/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/76255774f047056d070aaccfb1365509/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/835b00f0eaa3a4dded0721b4e7a325bd/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/835b00f0eaa3a4dded0721b4e7a325bd/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e60f63cc7ce4683a1fb220948dd8c54d/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e60f63cc7ce4683a1fb220948dd8c54d/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/54addbd48bc777bd7c2feb0c98546e12/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/54addbd48bc777bd7c2feb0c98546e12/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/40a3342781d7a4b08caa38af177e1b14/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/40a3342781d7a4b08caa38af177e1b14/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/bfd05269a7b55c01b78e37a4ffa3c8d9/play-services-maps-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/bfd05269a7b55c01b78e37a4ffa3c8d9/play-services-maps-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8afc576fb67ee74358e0034f0a7f1605/play-services-base-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8afc576fb67ee74358e0034f0a7f1605/play-services-base-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/a5f1c44e24327f868825f104848303fe/play-services-basement-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/a5f1c44e24327f868825f104848303fe/play-services-basement-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0598e553a74433ba13eae51bdffbe30d/play-services-tasks-license-11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0598e553a74433ba13eae51bdffbe30d/play-services-tasks-license-11.8.0/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:14:9-32
+		REJECTED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b56ef50f420bd512817058babf51158c/yelp-fusion-client-0.1.4/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:17:9-40
+	tools:replace
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:18:9-38
+activity#com.example.jiexunxu.tinderapp.MainActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.jiexunxu.tinderapp.SlideShowActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:27:9-29:52
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:28:13-46
+activity#com.example.jiexunxu.tinderapp.WaitSearchActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:30:9-32:52
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:31:13-47
+activity#com.example.jiexunxu.tinderapp.NoPlacesFoundActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:34:13-50
+activity#com.example.jiexunxu.tinderapp.SettingsActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:37:13-45
+activity#com.example.jiexunxu.tinderapp.ErrorActivity
+ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml:40:13-42
+uses-sdk
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/5d48e51bc97ba8657eabe5d8ea43411b/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/5d48e51bc97ba8657eabe5d8ea43411b/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b56ef50f420bd512817058babf51158c/yelp-fusion-client-0.1.4/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.ranga543:yelp-fusion-client:0.1.4] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/b56ef50f420bd512817058babf51158c/yelp-fusion-client-0.1.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c589bb7ec2d841c67ae68a3682166223/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c589bb7ec2d841c67ae68a3682166223/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0be8ac9c669ca43ba2dbd9e15aa86d41/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0be8ac9c669ca43ba2dbd9e15aa86d41/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cae14de4f8bb502babc738ac6d2e3aa/picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cae14de4f8bb502babc738ac6d2e3aa/picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/6d8ef7939597ac6b954357b46076f758/android-gif-drawable-1.2.12/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.12] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/6d8ef7939597ac6b954357b46076f758/android-gif-drawable-1.2.12/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.eftimoff:android-viewpager-transformers:1.0.1] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/dad965c742df16b24769f08d02a4bf0a/android-viewpager-transformers-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.eftimoff:android-viewpager-transformers:1.0.1] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/dad965c742df16b24769f08d02a4bf0a/android-viewpager-transformers-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/135e175a0ef22ce0a476b55a11aa6553/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/135e175a0ef22ce0a476b55a11aa6553/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1a321b7ca993b48f74ebfe2a4c780bca/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1a321b7ca993b48f74ebfe2a4c780bca/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/6a6abecbcce1c57cb3c36d699ae097f2/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/6a6abecbcce1c57cb3c36d699ae097f2/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c8bf09e18c6976a8609e096016cbfbf9/play-services-base-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c8bf09e18c6976a8609e096016cbfbf9/play-services-base-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/17b5c343234a510f7b8a20a8f8b89c96/play-services-tasks-11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/17b5c343234a510f7b8a20a8f8b89c96/play-services-tasks-11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aa35eaafec176d3d759c93993af92ca5/play-services-basement-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aa35eaafec176d3d759c93993af92ca5/play-services-basement-11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/9f83784eeafe2d776a50e825ed305ad1/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/9f83784eeafe2d776a50e825ed305ad1/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/76255774f047056d070aaccfb1365509/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/76255774f047056d070aaccfb1365509/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/835b00f0eaa3a4dded0721b4e7a325bd/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/835b00f0eaa3a4dded0721b4e7a325bd/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e60f63cc7ce4683a1fb220948dd8c54d/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e60f63cc7ce4683a1fb220948dd8c54d/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/54addbd48bc777bd7c2feb0c98546e12/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/54addbd48bc777bd7c2feb0c98546e12/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/40a3342781d7a4b08caa38af177e1b14/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/40a3342781d7a4b08caa38af177e1b14/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/bfd05269a7b55c01b78e37a4ffa3c8d9/play-services-maps-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/bfd05269a7b55c01b78e37a4ffa3c8d9/play-services-maps-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8afc576fb67ee74358e0034f0a7f1605/play-services-base-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8afc576fb67ee74358e0034f0a7f1605/play-services-base-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/a5f1c44e24327f868825f104848303fe/play-services-basement-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/a5f1c44e24327f868825f104848303fe/play-services-basement-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0598e553a74433ba13eae51bdffbe30d/play-services-tasks-license-11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/0598e553a74433ba13eae51bdffbe30d/play-services-tasks-license-11.8.0/AndroidManifest.xml:4:5-43
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c589bb7ec2d841c67ae68a3682166223/appcompat-v7-26.1.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avinvaghasiya/AndroidStudioProjects/Tabcorp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c589bb7ec2d841c67ae68a3682166223/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/135e175a0ef22ce0a476b55a11aa6553/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/135e175a0ef22ce0a476b55a11aa6553/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1a321b7ca993b48f74ebfe2a4c780bca/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/1a321b7ca993b48f74ebfe2a4c780bca/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/9f83784eeafe2d776a50e825ed305ad1/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/9f83784eeafe2d776a50e825ed305ad1/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/76255774f047056d070aaccfb1365509/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/76255774f047056d070aaccfb1365509/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/835b00f0eaa3a4dded0721b4e7a325bd/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/835b00f0eaa3a4dded0721b4e7a325bd/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e60f63cc7ce4683a1fb220948dd8c54d/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/e60f63cc7ce4683a1fb220948dd8c54d/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/54addbd48bc777bd7c2feb0c98546e12/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/54addbd48bc777bd7c2feb0c98546e12/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/40a3342781d7a4b08caa38af177e1b14/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/40a3342781d7a4b08caa38af177e1b14/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c589bb7ec2d841c67ae68a3682166223/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c589bb7ec2d841c67ae68a3682166223/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cae14de4f8bb502babc738ac6d2e3aa/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cae14de4f8bb502babc738ac6d2e3aa/picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cae14de4f8bb502babc738ac6d2e3aa/picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/8cae14de4f8bb502babc738ac6d2e3aa/picasso-2.71828/AndroidManifest.xml:9:13-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/4ab0af574e5d23f97b2fbfb2cac7eaf7/play-services-maps-11.8.0/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c8bf09e18c6976a8609e096016cbfbf9/play-services-base-11.8.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c8bf09e18c6976a8609e096016cbfbf9/play-services-base-11.8.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c8bf09e18c6976a8609e096016cbfbf9/play-services-base-11.8.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/c8bf09e18c6976a8609e096016cbfbf9/play-services-base-11.8.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aa35eaafec176d3d759c93993af92ca5/play-services-basement-11.8.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aa35eaafec176d3d759c93993af92ca5/play-services-basement-11.8.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/aa35eaafec176d3d759c93993af92ca5/play-services-basement-11.8.0/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/avinvaghasiya/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/runtime-1.0.0/AndroidManifest.xml:26:13-58
