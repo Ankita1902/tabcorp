@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ffaa00</color>
+
+    <color name="defaultPrimary">#3F51B5</color>
+    <color name="defaultPrimaryDark">#303F9F</color>
+    <color name="defaultBackground">#ffffff</color>
+    <color name="defaultButton">#2280ff</color>
+    <color name="defaultButtonPressed">#003088</color>
+    <color name="defaultEditText">#ffff00</color>
+    <color name="defaultSpinner">#ffff88</color>
+    <color name="defaultStroke">#335577</color>
+
+    <color name="greenPrimary">#008800</color>
+    <color name="greenPrimaryDark">#005500</color>
+    <color name="greenBackground">#ddffee</color>
+    <color name="greenButton">#00dd55</color>
+    <color name="greenButtonPressed">#005500</color>
+    <color name="greenEditText">#00ffdd</color>
+    <color name="greenSpinner">#00ddaa</color>
+    <color name="greenStroke">#005500</color>
+
+    <color name="bluePrimary">#000088</color>
+    <color name="bluePrimaryDark">#000055</color>
+    <color name="blueBackground">#ddeeff</color>
+    <color name="blueButton">#0055dd</color>
+    <color name="blueButtonPressed">#000055</color>
+    <color name="blueEditText">#00ddff</color>
+    <color name="blueSpinner">#00aadd</color>
+    <color name="blueStroke">#000055</color>
+
+    <color name="redPrimary">#880000</color>
+    <color name="redPrimaryDark">#550000</color>
+    <color name="redBackground">#ffeedd</color>
+    <color name="redButton">#dd0000</color>
+    <color name="redButtonPressed">#550000</color>
+    <color name="redEditText">#ff55dd</color>
+    <color name="redSpinner">#dd0077</color>
+    <color name="redStroke">#550000</color>
+</resources>

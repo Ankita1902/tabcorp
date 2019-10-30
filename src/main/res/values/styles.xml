@@ -1,0 +1,59 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="spinnerItemStyle" parent="android:Widget.TextView.SpinnerItem">
+    </style>
+
+    <style name="spinnerDropDownItemStyle" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+    </style>
+
+    <!-- style name="defaultTheme" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimary">#008800</item>
+        <item name="colorPrimaryDark">#005500</item>
+        <item name="colorAccent">#00dd00</item>
+        <item name="colorAppBackground">#ccffcc</item>
+        <item name="colorButton">#006600</item>
+        <item name="colorButtonPressed">#003300</item>
+        <item name="colorEditText">#00ff88</item>
+        <item name="colorSpinner">#00dd66</item>
+    </style>
+
+    <style name="greenTheme" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimary">@color/greenColorPrimary</item>
+        <item name="colorPrimaryDark">@color/greenColorPrimaryDark</item>
+        <item name="colorAccent">#00dd00</item>
+        <item name="colorAppBackground">#ccffcc</item>
+        <item name="colorButton">#006600</item>
+        <item name="colorButtonPressed">#003300</item>
+        <item name="colorEditText">#00ff88</item>
+        <item name="colorSpinner">#00dd66</item>
+        <item name="android:windowBackground">@color/greenBackground</item>
+    </style>
+
+    <style name="blueTheme" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimary">@color/blueColorPrimary</item>
+        <item name="colorPrimaryDark">@color/blueColorPrimaryDark</item>
+        <item name="colorAccent">#0000dd</item>
+        <item name="colorAppBackground">#ccccff</item>
+        <item name="colorButton">#000066</item>
+        <item name="colorButtonPressed">#000033</item>
+        <item name="colorEditText">#0088ff</item>
+        <item name="colorSpinner">#0066dd</item>
+    </style>
+
+    <style name="redTheme" parent="Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimary">#880000</item>
+        <item name="colorPrimaryDark">#550000</item>
+        <item name="colorAccent">#dd0000</item>
+        <item name="colorAppBackground">#ffcccc</item>
+        <item name="colorButton">#660000</item>
+        <item name="colorButtonPressed">#330000</item>
+        <item name="colorEditText">#ff8800</item>
+        <item name="colorSpinner">#dd6600</item>
+    </style -->
+</resources>

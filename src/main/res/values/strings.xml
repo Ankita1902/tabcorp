@@ -1,0 +1,22 @@
+<resources>
+    <string-array name="max_results_array">
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+    </string-array>
+
+    <string-array name="sort_by_array">
+        <item>Best Match</item>
+        <item>Distance</item>
+        <item>Rating</item>
+        <item>Review Count</item>
+    </string-array>
+
+    <string-array name="search_range_array">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+    </string-array>
+</resources>

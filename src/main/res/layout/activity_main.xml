@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jiexunxu.tinderapp.MainActivity">
+
+
+    <pl.droidsonroids.gif.GifImageButton
+        android:id="@+id/restaurantGif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/restaurants"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <pl.droidsonroids.gif.GifImageButton
+        android:id="@+id/shoppingGif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/shopping"
+        app:layout_constraintEnd_toStartOf="@+id/foodDeliveryGif"
+        app:layout_constraintStart_toEndOf="@+id/restaurantGif"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <pl.droidsonroids.gif.GifImageButton
+        android:id="@+id/fitnessGif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/fitness"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/restaurantGif" />
+
+    <pl.droidsonroids.gif.GifImageButton
+        android:id="@+id/nightlifeGif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/nightlife"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fitnessGif" />
+
+    <pl.droidsonroids.gif.GifImageButton
+        android:id="@+id/hotelsGif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/hotel"
+        app:layout_constraintEnd_toStartOf="@+id/beautyGif"
+        app:layout_constraintStart_toEndOf="@+id/fitnessGif"
+        app:layout_constraintTop_toBottomOf="@+id/shoppingGif" />
+
+    <pl.droidsonroids.gif.GifImageButton
+        android:id="@+id/petsGif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/pets"
+        app:layout_constraintEnd_toStartOf="@+id/entertainmentGif"
+        app:layout_constraintStart_toEndOf="@+id/nightlifeGif"
+        app:layout_constraintTop_toBottomOf="@+id/hotelsGif" />
+
+    <Button
+        android:id="@+id/mainPageCustomzieSearchButton"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/green_rounded_button"
+        android:text="More Search Options"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" >
+    </Button>
+
+    <pl.droidsonroids.gif.GifImageButton
+        android:id="@+id/foodDeliveryGif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/food_delivery"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <pl.droidsonroids.gif.GifImageButton
+        android:id="@+id/beautyGif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/beauty"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/foodDeliveryGif" />
+
+    <pl.droidsonroids.gif.GifImageButton
+        android:id="@+id/entertainmentGif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/entertainments"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/beautyGif" />
+
+</android.support.constraint.ConstraintLayout>
